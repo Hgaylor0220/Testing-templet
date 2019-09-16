@@ -16,7 +16,7 @@
       "indent": ["warn", 2],
       "no-console": "warn",
       "no-debugger": "warn",
-      "no-unused-vars": "off",
-      "no-extra-semi": "off"
+      "no-unused-vars": "warn",
+      "no-extra-semi": "warn"
       }
 }
